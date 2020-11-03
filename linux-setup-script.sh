@@ -2,7 +2,7 @@
 
 echo 'Launching script 🚀'
 apt-get update && sudo apt-get upgrade -y
-snap install postman firecamp firecamp dbeaver-ce spotify discord code figma-linux
+snap install postman firecamp firecamp dbeaver-ce spotify discord figma-linux
 apt-get install nodejs npm curl -y
 cd Downloads/
 curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh -o install_nvm.sh
